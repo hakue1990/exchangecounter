@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/exchangecounter/static/css/main.aa8c741c.chunk.css",
+    "main.js": "/exchangecounter/static/js/main.fa68822a.chunk.js",
+    "main.js.map": "/exchangecounter/static/js/main.fa68822a.chunk.js.map",
+    "runtime-main.js": "/exchangecounter/static/js/runtime-main.45f13b6b.js",
+    "runtime-main.js.map": "/exchangecounter/static/js/runtime-main.45f13b6b.js.map",
+    "static/js/2.7f557e25.chunk.js": "/exchangecounter/static/js/2.7f557e25.chunk.js",
+    "static/js/2.7f557e25.chunk.js.map": "/exchangecounter/static/js/2.7f557e25.chunk.js.map",
+    "index.html": "/exchangecounter/index.html",
+    "precache-manifest.fa0c4cba9f6e7b5e7412997f77a56556.js": "/exchangecounter/precache-manifest.fa0c4cba9f6e7b5e7412997f77a56556.js",
+    "service-worker.js": "/exchangecounter/service-worker.js",
+    "static/css/main.aa8c741c.chunk.css.map": "/exchangecounter/static/css/main.aa8c741c.chunk.css.map",
+    "static/js/2.7f557e25.chunk.js.LICENSE.txt": "/exchangecounter/static/js/2.7f557e25.chunk.js.LICENSE.txt",
+    "static/media/github.svg": "/exchangecounter/static/media/github.b6191516.svg",
+    "static/media/logo.svg": "/exchangecounter/static/media/logo.3631f92b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45f13b6b.js",
+    "static/js/2.7f557e25.chunk.js",
+    "static/css/main.aa8c741c.chunk.css",
+    "static/js/main.fa68822a.chunk.js"
+  ]
+}
