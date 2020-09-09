@@ -38,7 +38,7 @@ class App extends React.Component {
   };
   render() {
     const items = this.currencies.map((item) => (
-      <Cash item={item} id={item.id} value={this.state.value} />
+      <Cash key={item.id} item={item} id={item.id} value={this.state.value} />
     ));
     return (
       <div className="App">
